@@ -1,9 +1,12 @@
 # Site settings
 title:"OpenBlend"
 email:"info@openblen.org"
-description: "" # > this means to ignore newlines until "baseurl:"
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "" # the base hostname & protocol for your site
+# > this means to ignore newlines until "baseurl:"
+description:
+# the subpath of your site, e.g. /blog/
+baseurl:
+# the base hostname & protocol for your site
+url:
 
 twitter_username:
 github_username:
